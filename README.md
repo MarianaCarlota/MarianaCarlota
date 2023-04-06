@@ -5,7 +5,7 @@
 
 My name is Mariana and I have been working in fashion 👗 for most of my career. Currently I'm transitioning into a new career path in **_web development_** 💻 
 I'm very curious 👀 always looking for learning new things and very excited about the future. 
-These characteristics of mine, along with my interest in aesthetic and beautiful things made me jump into a new challenge - a web development bootcamp **@ Le Wagon**
+These characteristics of mine, along with my interest in aesthetic and beautiful things made me jump into a new challenge - a web development bootcamp **@Le Wagon**
 where I acquired new skills and built exciting projects 🚀 
 Now that it's finished, I'm ready to start a new adventure in the tech world.
 
