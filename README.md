@@ -13,12 +13,13 @@ During this amazing experience I had the opportunity, together with my team of i
 
   - [Rentart (airbnb clone)](https://github.com/wJoenn/rentart) - _platform for renting pieces of art_
   
-  ![rentart](https://user-images.githubusercontent.com/114437310/230499620-ebe12dc6-01ed-444e-92f1-2ffb006a6d1c.png)
+  ![rentart](https://user-images.githubusercontent.com/114437310/230505397-f4a61efc-e513-4652-9e33-20932f9b92b6.png)
 
 
   - [Artify](https://github.com/wJoenn/artify) - _Website designed for mobile with Ruby on Rails where it is possible to take a picture of a monument or landmark anywhere in the world and get information about it_
   
-  ![artify](https://user-images.githubusercontent.com/114437310/230501502-2d4d89e0-e1ac-4160-afb8-5273132c25a1.png)
+  ![artify](https://user-images.githubusercontent.com/114437310/230505410-0b827cf6-5737-4aff-93b2-079ec298bfb4.png)
+  
 
 🔭 Currently I'm focused on improving the skills I learned in the Bootcamp and become a RoR master 💪
 
