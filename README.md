@@ -3,8 +3,8 @@
 
 ### Hi there 👋 Welcome to my github page!
 
-My name is Mariana and I have been working in fashion 👗 for most of my career. Currently I'm transitioning into a new career path in **_web development_** 💻 
-I'm very curious 👀 always looking for learning new things and very excited about the future. 
+My name is Mariana and I'm currently transitioning into a new career path in **_web development_** 💻
+I'm very curious 👀 always looking for learning new things and very excited about the future. I have been working in fashion 👗 for most of my career. 
 These characteristics of mine, along with my interest in aesthetic and beautiful things made me jump into a new challenge - a web development bootcamp **@Le Wagon**
 where I acquired new skills and built exciting projects 🚀 
 Now that it's finished, I'm ready to start a new adventure in the tech world.
@@ -21,9 +21,9 @@ During this amazing experience I had the opportunity, together with my team of i
   ![artify](https://user-images.githubusercontent.com/114437310/230505410-0b827cf6-5737-4aff-93b2-079ec298bfb4.png)
   
 
-🔭 Currently I'm focused on improving the skills I learned in the Bootcamp and become a RoR master 💪
+🔭 Currently I'm focused on improving what I learned in the Bootcamp and become a RoR and Javascript master 💪
 
-📫 Feel free to contact me **_marianacc99@hotmail.com_**. Everybody is a friend 🍻 
+📫 Feel free to contact me **_marianaccarlota@outlook.com_**. Everybody is a friend 🍻 
 
 
 
