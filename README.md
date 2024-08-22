@@ -23,10 +23,6 @@ These characteristics of mine, along with my interest in aesthetic and beautiful
 
 https://www.linkedin.com/in/mariana-carlota/
 
-### Portfolio
-
-https://whatsinfrontof.me/
-
 Everybody is a friend 🍻
 
 
