@@ -3,9 +3,7 @@
 
 # Hi there 👋 Welcome to my github page!
 
-Passionate front-end developer who transitioned into web development in 2022 💻 through a bootcamp while balancing studies and a previous career in the textile industry. Since mid-2023, I have been contributing to a startup as a front-end developer, continuously learning and embracing new challenges. I thrive on exploring the unknown and expanding my skill set in the ever-evolving tech world.
-
- 🚀
+Passionate front-end developer who transitioned into web development in 2022 💻 through a bootcamp while balancing studies and a previous career in the textile industry. Since mid-2023, I have been contributing to a startup as a front-end developer, continuously learning and embracing new challenges. I thrive on exploring the unknown and expanding my skill set in the ever-evolving tech world 🚀
 
 # Stacks:
 ANGULAR | HTLM | SASS | GIT | GITHUB | GITLAB | SQLITE | REACT | RUBY | RUBY ON RAILS
