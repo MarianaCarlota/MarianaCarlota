@@ -10,7 +10,7 @@ Passionate front-end developer who transitioned into web development in 2022 �
 # Stacks:
 ANGULAR | HTLM | SASS | GIT | GITHUB | GITLAB | SQLITE | REACT | RUBY | RUBY ON RAILS
 
-🔭 Currently I'm focused on becomING a Front-end master 💪
+🔭 Currently I'm focused on becoming a Front-end master 💪
 
 # Feel free to contact me 
 
